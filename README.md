@@ -8,3 +8,5 @@ The provided notebook resolve the following five prbolems,
 5. Use Monte Carlo method for estimating the area of an ellipse with the following equation,
 $$5x^2-6xy+5y^2-32=0$$
 See the [notebook](https://github.com/ashkan-khd/Monte-Carlo-Method-Pi-Approx/blob/main/Monte-Carlo-Method.ipynb) forthe solutions and more information.
+## Official Problem Set
+The official problem set (from the first series of computer simulation homework) is also provided [here](https://github.com/ashkan-khd/Monte-Carlo-Method-Pi-Approx/blob/main/Computer%20Simulation%2C%2040634-1%20SUT%2C%20HW%201-Practical.pdf). However, since it is in Farsi it may not be preferable for all.
